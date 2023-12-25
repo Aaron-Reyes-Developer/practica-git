@@ -1,4 +1,3 @@
-# practica-git
+# practica-git con github
 
-este es una practica de git a git hub,
-esta linea se agrego desde local
+Esta es la practica para usar git con github
